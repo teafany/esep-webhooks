@@ -1,0 +1,17 @@
+.env
+.env.*
+*.env
+.env.*.local
+
+.aws/
+*.pem
+*.key
+
+bin/
+obj/
+dist/
+build/
+node_modules/
+
+*.zip
+.DS_Store
